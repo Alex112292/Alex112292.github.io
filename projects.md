@@ -6,4 +6,4 @@ A simple game of checkers that is text based.
 A game where a fight is simulated between a monster and an ogre.
 
 - [About Me](./about.md)
-- [Homepage](./indec.md)
+- [Homepage](./index.md)

@@ -20,4 +20,4 @@ UFC
 ![Me](./Assets/Images/Site Picture.jpg)
 
 - [Projects](./projects.md)
-- [Homepage](./indec.md)
+- [Homepage](./index.md)
