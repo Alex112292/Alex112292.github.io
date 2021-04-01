@@ -2,6 +2,7 @@
 
 # Schooling
 Pawling High School
+
 Quinnipiac University
 
 # What Got Me Into C.S.
@@ -12,6 +13,7 @@ Fluent in Scala, C#, Java and JavaScript
 
 # Interests
 Football
+
 UFC
 
 # Images
