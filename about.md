@@ -1,4 +1,4 @@
-# A little About Me
+# A Little About Me
 
 # Schooling
 Pawling High School
@@ -18,3 +18,6 @@ UFC
 
 # Images
 ![Me](./Assets/Images/Site Picture.jpg)
+
+- [Projects](./projects.md)
+- [Homepage](./indec.md)
